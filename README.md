@@ -53,13 +53,5 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 car-service-recalls-cognos-dashboard
- ┣ 📄 README.md
- ┗ 🖼️ dashboard.png
-```
-
 Data Analytics enthusiast | IBM Data Analyst Professional Certificate   
 [LinkedIn](https://www.linkedin.com/in/caio-guedes-173194202)!-- substitua pelo seu link real -->
