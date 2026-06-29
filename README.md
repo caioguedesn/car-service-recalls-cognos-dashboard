@@ -30,7 +30,7 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ## Dashboard Preview
 
-![Car Service & Recalls Dashboard](./dashboard.png)
+![Car Service & Recalls Dashboard](./dashboard.png.png)
 
 ---
 
