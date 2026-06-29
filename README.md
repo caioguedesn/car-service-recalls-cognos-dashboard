@@ -54,4 +54,4 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 ---
 
 Data Analytics enthusiast | IBM Data Analyst Professional Certificate   
-[LinkedIn](https://www.linkedin.com/in/caio-guedes-173194202)!-- substitua pelo seu link real -->
+[LinkedIn](https://www.linkedin.com/in/caio-guedes-173194202)
